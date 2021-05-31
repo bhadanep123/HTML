@@ -1,0 +1,40 @@
+code {
+    color: #660000;
+    font-style: normal;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+pre {
+    color: #660000;
+    background-color: honeydew;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 500px;
+
+}
+
+h1 {
+    background-color: cornflowerblue;
+    margin: 0px;
+    /*padding: 20px;*/
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+}
+h3 {
+    margin: 0;
+    padding-left: 0px;
+    padding-top: 5x;
+    padding-bottom: 5px;
+    padding-right: 10px;
+
+}
+.copy-right{
+    margin-top: 5px;
+    background-color: cyan;
+}
+.font-color{
+    color: black;
+}
